@@ -41,3 +41,6 @@ $ npm run build
 
 ### Powered by webpack...
 [![N|Solid](https://webpack.js.org/e0b5805d423a4ec9473ee315250968b2.svg)](https://webpack.js.org/)
+
+## More information
+[Link to documentation](documentation.md)
